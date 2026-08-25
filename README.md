@@ -69,6 +69,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Surveys
+
+[14 Jul 2026] [Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques](https://arxiv.org/abs/2607.12829)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12829)
+
 [12 May 2026] [A Comparative Survey of Inference Acceleration for DLLMs against AR-LLMs: No Free Lunch](https://www.preprints.org/manuscript/202605.0776)  
 [![Paper](https://img.shields.io/badge/Paper-Preprints.org-blue)](https://www.preprints.org/manuscript/202605.0776)
 [![Star](https://img.shields.io/github/stars/haoyun-jiang/DLLM-AccelEval.svg?style=social&label=Star)](https://github.com/haoyun-jiang/DLLM-AccelEval)
@@ -124,6 +128,97 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Discrete DLMs
+
+[11 Aug 2026] [Simplex Relaxation for Discrete Diffusion](https://arxiv.org/abs/2608.10615)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10615)
+
+[10 Aug 2026] [Reducing Pretraining-Generation Mismatch in Diffusion Language Models](https://arxiv.org/abs/2608.09424)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.09424)
+
+[9 Aug 2026] [Unsure but Certain: Uncovering the Representation-Confidence Gap in Diffusion Language Models](https://arxiv.org/abs/2608.08791)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.08791)
+
+
+[6 Aug 2026] [Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06628)
+
+
+[4 Aug 2026] [MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03769)
+
+[4 Aug 2026] [LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models](https://arxiv.org/abs/2608.03457)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03457)
+
+[31 Jul 2026] [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00146)
+
+
+[29 Jul 2026] [Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models](https://arxiv.org/abs/2607.27386)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.27386)
+
+[28 Jul 2026] [PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25157)
+
+[24 Jul 2026] [Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising](https://arxiv.org/abs/2607.24841)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24841)
+
+
+
+[17 Jul 2026] [Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models](https://arxiv.org/abs/2607.15893)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.15893)
+
+[7 Jul 2026] [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](https://arxiv.org/abs/2607.05722)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.05722)
+
+[2 Jul 2026] [Training Hybrid Block Diffusion Language Models with Partial Bidirectionality](https://arxiv.org/abs/2607.02805)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.02805)
+
+[2 Jul 2026] [Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding](https://arxiv.org/abs/2607.01775)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01775)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://m-arriola.com/setdlms/)
+[![Star](https://img.shields.io/github/stars/kuleshov-group/setdlms.svg?style=social&label=Star)](https://github.com/kuleshov-group/setdlms)
+
+[2 Jul 2026] [Subliminal Clocks: Latent Time Modelling in Diffusion Language Models](https://arxiv.org/abs/2607.01774)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01774)
+
+[28 Jun 2026] [Adaptive Block Diffusion: Resolving Training-Inference Mismatch in Diffusion Language Models](https://arxiv.org/abs/2606.29275)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.29275)
+
+[28 Jun 2026] [Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.29215)
+
+[26 Jun 2026] [Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation](https://arxiv.org/abs/2606.27732)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.27732)
+
+[25 Jun 2026] [Nemotron-Labs-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context](https://arxiv.org/abs/2606.26493)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26493)
+
+[24 Jun 2026] [Improved Large Language Diffusion Models](https://arxiv.org/abs/2606.25331)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.25331)
+[![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA)
+
+[23 Jun 2026] [When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24119)
+[![Star](https://img.shields.io/github/stars/lucky-verma/top1-fails-dlm-lora-monitors.svg?style=social&label=Star)](https://github.com/lucky-verma/top1-fails-dlm-lora-monitors)
+
+[19 Jun 2026] [When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.21802)
+
+[17 Jun 2026] [Sumi: Open Uniform Diffusion Language Model from Scratch](https://arxiv.org/abs/2606.19005)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19005)
+
+[13 Jun 2026] [Semantic DLM+: Improving Diffusion Language Models through Bias-variance Trade-off in Transition Kernel Design](https://arxiv.org/abs/2606.15327)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15327)
+
+[12 Jun 2026] [Neither Parallel Nor Sequential: How DiffusionGemma Actually Commits Tokens](https://arxiv.org/abs/2606.14620)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14620)
+
+[6 Jun 2026] [Forward-Free Diffusion Language Models](https://arxiv.org/abs/2606.08357)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08357)
+
+[1 Jun 2026] [FLARE: Diffusion for Hybrid Language Model](https://arxiv.org/abs/2606.01774)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01774)
+
 [15 May 2026] [Dynamic Chunking for Diffusion Language Models](https://arxiv.org/abs/2605.15676)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15676)
 
@@ -517,7 +612,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [9 May 2025] [Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions](https://arxiv.org/abs/2505.05755)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05755)
 
-[22 Apr 2025] [Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431) (ICML 2025)<br>
+[23 Apr 2025] [Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431) (ICML 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16431)
 
 [2 Apr 2025] [Dream 7B](https://hkunlp.github.io/blog/2025/dream/)<br>
@@ -661,6 +756,23 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 ## Continuous DLMs
 
+[3 Aug 2026] [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://arxiv.org/abs/2608.02602)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02602)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aurora-lm-project.github.io/)
+
+[1 Jul 2026] [Low Perplexity is Repetition: A One-Dimensional Self-Conditioning Attractor in Continuous Diffusion LMs](https://arxiv.org/abs/2607.00588)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.00588)
+
+[27 Jun 2026] [$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.29066)
+
+
+[23 Jun 2026] [Posterior Refinement: Fast Language Generation via Any-Order Flow Maps](https://arxiv.org/abs/2606.24773)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24773)
+
+[7 Jun 2026] [Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08810)
+
 [14 May 2026] [Language Generation as Optimal Control: Closed-Loop Diffusion in Latent Control Space](https://arxiv.org/abs/2605.14531)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14531)
 
@@ -752,7 +864,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 [May 2024] [Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule](https://aclanthology.org/2024.lrec-main.493/) (LREC-COLING 2024)
 
-[17 Mar 2024] [Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows](https://arxiv.org/abs/2403.16995) (NAACL 2024)<br>
+[25 Mar 2024] [Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows](https://arxiv.org/abs/2403.16995) (NAACL 2024)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16995)
 
 [14 Mar 2024] [LDSeq: Latent Diffusion Models for Sequence to Sequence Text Generation](https://dl.acm.org/doi/10.1145/3638584.3638617) (CSAI 23)
@@ -847,6 +959,34 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Multimodal DLMs
+
+[7 Aug 2026] [Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07006)
+[![Star](https://img.shields.io/github/stars/wjkuser/ECF.svg?style=social&label=Star)](https://github.com/wjkuser/ECF)
+
+
+[31 Jul 2026] [Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models](https://arxiv.org/abs/2607.29079)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.29079)
+
+[14 Jul 2026] [Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model](https://arxiv.org/abs/2607.13013)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.13013)
+
+[9 Jul 2026] [Reinforcing the Generation Order of Multimodal Masked Diffusion Models](https://arxiv.org/abs/2607.08056)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.08056)
+
+[5 Jul 2026] [DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04140)
+
+[19 Jun 2026] [DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis](https://arxiv.org/abs/2608.00011)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00011)
+
+[17 Jun 2026] [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://arxiv.org/abs/2606.19534)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19534)
+[![Star](https://img.shields.io/github/stars/MSALab-PKU/PerceptionDLM.svg?style=social&label=Star)](https://github.com/MSALab-PKU/PerceptionDLM)
+
+[4 Jun 2026] [Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission](https://arxiv.org/abs/2606.06273)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06273)
+
 [10 Apr 2026] [Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](https://arxiv.org/abs/2604.06832)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06832)
 
@@ -881,12 +1021,12 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [30 Sep 2025] [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/abs/2509.25681)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25681)
 
-[23 Sep 2025] [Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.06308)<br>
+[23 Sep 2025] [Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2509.19244)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.19244)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://homepage.jackli.org/projects/lavida_o/index.html)
 [![Star](https://img.shields.io/github/stars/adobe-research/LaVida-O.svg?style=social&label=Star)](https://github.com/adobe-research/LaVida-O)
 
-[9 Sep 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308)<br>
+[7 Oct 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06308)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://synbol.github.io/Lumina-DiMOO/)
 [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-DiMOO)
@@ -931,9 +1071,54 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Strategies
-[21 Jun 2026] [d-OPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2606.18195)<br>
+[14 Aug 2026] [CForce: Boosting Parallel Decoding for dLLMs via Consistency Forcing](https://arxiv.org/abs/2608.13925)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13925)
+[![Star](https://img.shields.io/github/stars/inclusionAI/dFactory.svg?style=social&label=Star)](https://github.com/inclusionAI/dFactory)
+
+[3 Aug 2026] [OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models](https://arxiv.org/abs/2608.02942)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02942)
+
+[3 Aug 2026] [Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2608.01717)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01717)
+
+[18 Jul 2026] [Trace-Based On-Policy Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2607.16872)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.16872)
+
+[16 Jul 2026] [Mask-Aware Policy Gradients for Diffusion Language Models](https://arxiv.org/abs/2607.15200)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.15200)
+
+
+[5 Jul 2026] [dOPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2607.04428)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04428)
+[![Star](https://img.shields.io/github/stars/tuandattt/dOPSD.svg?style=social&label=Star)](https://github.com/tuandattt/dOPSD)
+
+[30 Jun 2026] [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.00208)
+[![Star](https://img.shields.io/github/stars/laolaorkkkkk/SLIM-RL.svg?style=social&label=Star)](https://github.com/laolaorkkkkk/SLIM-RL)
+
+[22 Jun 2026] [Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](https://arxiv.org/abs/2606.23567)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23567)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jimmyxu123.github.io/SAS)
+
+[16 Jun 2026] [Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18195)
 [![Star](https://img.shields.io/github/stars/xingzhejun/d-opsd-code.svg?style=social&label=Star)](https://github.com/xingzhejun/d-opsd-code)
+
+[11 Jun 2026] [DiPOD: Diffusion Policy Optimization without Drifting Apart](https://arxiv.org/abs/2606.13795)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13795)
+[![Star](https://img.shields.io/github/stars/Astro-Eric/DiPOD-release.svg?style=social&label=Star)](https://github.com/Astro-Eric/DiPOD-release)
+
+[10 Jun 2026] [Beyond Fully Random Masking: Attention-Guided Denoising and Optimization for Diffusion Language Models](https://arxiv.org/abs/2606.12273)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12273)
+
+[7 Jun 2026] [Back on Track: Aligning Rewards and States for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2606.08501)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08501)
+
+[4 Jun 2026] [Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation](https://arxiv.org/abs/2606.06712)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06712)
+
+[3 Jun 2026] [Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2606.04396)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04396)
 
 [13 May 2026] [Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models](https://arxiv.org/abs/2605.13935)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.13935)
@@ -1008,10 +1193,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [24 Oct 2025] [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21473v1)
 
-[03 Oct 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
-[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
 [13 Oct 2025] [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](https://arxiv.org/abs/2510.11683v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11683v2)
@@ -1027,6 +1208,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [2 Oct 2025] [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01544)
 
+[28 Sep 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
 [27 Sep 2025] [A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models](https://arxiv.org/abs/2509.23286v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23286v1)
@@ -1098,7 +1283,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14843)
 
 
-[12 Feb 2024] [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) (NeurIPS 2024)<br>
+[12 Feb 2024] [Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) (NeurIPS 2024)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07754)
 [![Star](https://img.shields.io/github/stars/hkunlp/diffusion-of-thoughts.svg?style=social&label=Star)](https://github.com/hkunlp/diffusion-of-thoughts)
 
@@ -1109,6 +1294,134 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Inference Optimization
+
+[12 Aug 2026] [Ripple-Pivot Search: Active Parallel Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2608.11742)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11742)
+
+[8 Aug 2026] [Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.08086)
+[![Star](https://img.shields.io/github/stars/Hxnng/Archer.svg?style=social&label=Star)](https://github.com/Hxnng/Archer)
+
+[8 Aug 2026] [Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.08082)
+
+
+[5 Aug 2026] [DBLAST: Dependent Block Drafting for Stochastic Speculative Decoding](https://arxiv.org/abs/2608.05448)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05448)
+
+[3 Aug 2026] [REFLEX: Rethinking MoE Inference as Refinement-Aware Compute Allocation in Diffusion Language Models](https://arxiv.org/abs/2608.01784)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01784)
+
+[1 Aug 2026] [Escaping Confidence Trap: Evolutionary Decoding for Mathematical Reasoning in Diffusion LLMs](https://arxiv.org/abs/2608.00605)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00605)
+
+[31 Jul 2026] [CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference](https://arxiv.org/abs/2608.11235)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11235)
+[![Star](https://img.shields.io/github/stars/wyffffff/cora-diff-llada.svg?style=social&label=Star)](https://github.com/wyffffff/cora-diff-llada)
+
+[30 Jul 2026] [Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](https://arxiv.org/abs/2607.28166)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28166)
+
+[28 Jul 2026] [AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding](https://arxiv.org/abs/2607.25852)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25852)
+
+[27 Jul 2026] [Rethinking the Generation Order of Block Diffusion Language Models](https://arxiv.org/abs/2607.24306)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24306)
+
+[21 Jul 2026] [Speculative Correction: Draft-then-Refine Decoding for Diffusion Language Models](https://arxiv.org/abs/2608.02625)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02625)
+
+[20 Jul 2026] [FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models](https://arxiv.org/abs/2607.17652)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.17652)
+
+[17 Jul 2026] [Adaptive Multi-Step Lookahead Decoding for Diffusion Language Models](https://arxiv.org/abs/2607.15655)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.15655)
+
+[10 Jul 2026] [Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance](https://arxiv.org/abs/2608.00024)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00024)
+
+
+[8 Jul 2026] [Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata](https://arxiv.org/abs/2607.07026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.07026)
+
+[3 Jul 2026] [TACG: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding](https://arxiv.org/abs/2607.03236)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.03236)
+[![Star](https://img.shields.io/github/stars/Clarence-CV/TACG-DLLM.svg?style=social&label=Star)](https://github.com/Clarence-CV/TACG-DLLM)
+
+[30 Jun 2026] [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](https://arxiv.org/abs/2606.31315)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.31315)
+
+[29 Jun 2026] [Beyond Block Boundaries: Multi-Block Editing for Diffusion Large Language Models](https://arxiv.org/abs/2607.22663)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.22663)
+
+[25 Jun 2026] [Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](https://arxiv.org/abs/2606.27474)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.27474)
+
+[22 Jun 2026] [Understanding Parallel Samplers in Masked Diffusion via Random Walks on Graphs](https://arxiv.org/abs/2606.22976)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.22976)
+
+[16 Jun 2026] [VoidPadding: Let \[VOID\] Handle Padding in Masked Diffusion Language Models so that \[EOS\] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17999)
+[![Star](https://img.shields.io/github/stars/Haru-LCY/VoidPadding.svg?style=social&label=Star)](https://github.com/Haru-LCY/VoidPadding)
+
+[15 Jun 2026] [LESS Is More: Mutual-Stability Sampling for Diffusion Language Models](https://arxiv.org/abs/2606.16908)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16908)
+
+[15 Jun 2026] [Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16847)
+
+[15 Jun 2026] [Who Should Lead Decoding Now? Tracking Reliable Trajectories for Ensembling Masked Diffusion Language Models](https://arxiv.org/abs/2606.16281)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16281)
+
+[14 Jun 2026] [Mean-Field Parallel Decoding for Discrete Diffusion Language Models](https://arxiv.org/abs/2606.15805)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15805)
+
+[10 Jun 2026] [Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12232)
+
+[10 Jun 2026] [Teaching Diffusion to Speculate Left-to-Right](https://arxiv.org/abs/2606.11552)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11552)
+
+[9 Jun 2026] [Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10829)
+
+[9 Jun 2026] [Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models](https://arxiv.org/abs/2606.10537)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10537)
+
+[7 Jun 2026] [AsyncLane: Decoupling Refinement from Advancement in Diffusion Language Model Decoding](https://arxiv.org/abs/2606.08411)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08411)
+
+[6 Jun 2026] [Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](https://arxiv.org/abs/2606.08048)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08048)
+[![Star](https://img.shields.io/github/stars/juntongshi48/poe-bridge.svg?style=social&label=Star)](https://github.com/juntongshi48/poe-bridge)
+
+[4 Jun 2026] [NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models](https://arxiv.org/abs/2606.06031)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06031)
+
+[3 Jun 2026] [SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding](https://arxiv.org/abs/2606.04974)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04974)
+[![Star](https://img.shields.io/github/stars/TH-AI-Lab-PKU/SAID.svg?style=social&label=Star)](https://github.com/TH-AI-Lab-PKU/SAID)
+
+[3 Jun 2026] [Dynamic Infilling Anchors for Format-Constrained Generation in Diffusion Large Language Models](https://arxiv.org/abs/2606.04535)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04535)
+
+[2 Jun 2026] [Supportive Token Revealing for Fast Diffusion Language Model Decoding](https://arxiv.org/abs/2606.04236)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04236)
+
+[1 Jun 2026] [Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](https://arxiv.org/abs/2606.02955)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02955)
+[![Star](https://img.shields.io/github/stars/Ringo-Star/FastdLLM_plusplus.svg?style=social&label=Star)](https://github.com/Ringo-Star/FastdLLM_plusplus)
+
+[1 Jun 2026] [SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02544)
+[![Star](https://img.shields.io/github/stars/airevo2/SimSD-release.svg?style=social&label=Star)](https://github.com/airevo2/SimSD-release)
+
+[1 Jun 2026] [DFlare: Scaling Up Draft Capacity for Block Diffusion Speculative Decoding](https://arxiv.org/abs/2606.02091)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02091)
+
+[1 Jun 2026] [Cost-Aware Diffusion Draft Trees for Speculative Decoding](https://arxiv.org/abs/2606.01813)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01813)
+
 [15 May 2026] [PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding](https://arxiv.org/abs/2605.15609)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15609)
 
@@ -1360,7 +1673,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [13 Oct 2025] [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11052v2)
 
-[13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870)<br>
+[13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870) (ACL 2026 Oral)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13870)
 
 [10 Oct 2025] [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/abs/2510.09309)<br>
@@ -1518,7 +1831,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/Fast-dLLM/)
 [![Star](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social&label=Star)](https://github.com/NVlabs/Fast-dLLM)
 
-[28 May 2025] [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061)<br>
+[29 May 2025] [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23061)
 
 [27 May 2025] [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)<br>
@@ -1588,6 +1901,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.04215)
 [![Star](https://img.shields.io/github/stars/yjyddq/DARE.svg?style=social&label=Star)](https://github.com/yjyddq/DARE)
 
+[18 Dec 2025] [XLM: A Python package for non-autoregressive language models](https://arxiv.org/abs/2512.17065)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.17065)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dhruveshp.com/xlm-core/dev/)
+[![Star](https://img.shields.io/github/stars/dhruvdcoder/xlm-core.svg?style=social&label=Star)](https://github.com/dhruvdcoder/xlm-core)
+
 [19 Nov 2025] [DiRL: An Efficient Training Framework for Diffusion Language Models](https://github.com/OpenMOSS/DiRL)<br>
 [![Star](https://img.shields.io/github/stars/OpenMOSS/DiRL.svg?style=social&label=Star)](https://github.com/OpenMOSS/DiRL)
 
@@ -1595,6 +1913,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
 ## Inference Frameworks
+
+[5 Jul 2026] [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](https://arxiv.org/abs/2607.04206)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04206)
+[![Star](https://img.shields.io/github/stars/UT-InfraAI/sangam.svg?style=social&label=Star)](https://github.com/UT-InfraAI/sangam)
 [24 May 2026] [dlmserve: OpenAI-Compatible Serving Engine for Diffusion Language Models](https://github.com/iOptimizeThings/dlmserve)<br>
 [![Star](https://img.shields.io/github/stars/iOptimizeThings/dlmserve.svg?style=social&label=Star)](https://github.com/iOptimizeThings/dlmserve)
 
@@ -1605,6 +1927,35 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Star](https://img.shields.io/github/stars/furiosa-ai/ParallelBench.svg?style=social&label=Star)](https://github.com/furiosa-ai/ParallelBench)
 
 ## Applications
+
+[7 Aug 2026] [Stoicheia: Character-Level Masked Diffusion for Ancient Greek Textual Restoration, Parsing, and Metrical Scansion](https://arxiv.org/abs/2608.07249)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07249)
+[![Star](https://img.shields.io/github/stars/ericu9500/stoicheia.svg?style=social&label=Star)](https://github.com/ericu9500/stoicheia)
+
+[4 Aug 2026] [Diffuse to Compress: Leveraging Diffusion LMs for Lossless Compression](https://arxiv.org/abs/2608.11249)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11249)
+
+[23 Jul 2026] [Diffusion Language Model for Recommendation](https://arxiv.org/abs/2607.21519)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21519)
+
+[1 Jul 2026] [Discrete Diffusion Language Models for Interactive Radiology Report Drafting](https://arxiv.org/abs/2607.01436)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01436)
+
+[1 Jul 2026] [Diffusion-GR2: Diffusion Generative Reasoning Re-ranker](https://arxiv.org/abs/2607.01170)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01170)
+
+[30 Jun 2026] [TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.31166)
+
+[17 Jun 2026] [Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation](https://arxiv.org/abs/2606.19315)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19315)
+
+[11 Jun 2026] [Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12807)
+
+[7 Jun 2026] [TimpaTeks: Automatic In-place Text Sequence Modification via Diffusion Language Model Steering](https://arxiv.org/abs/2606.08408)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08408)
+
 [29 Apr 2026] [Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14001)
 
@@ -1777,6 +2128,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 [11 Jan 2024] [MDM: Meta diffusion model for hard-constrained text generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) (Knowledge-Based Systems)
 
+[7 Jan 2024] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
+
 [Dec 2023] [DiffusionSL: Sequence Labeling via Tag Diffusion Process](https://aclanthology.org/2023.findings-emnlp.860/) (EMNLP 2023)
 
 [19 Dec 2023] [IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition](https://arxiv.org/abs/2312.11923) (IJCV 2025)<br>
@@ -1848,7 +2202,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20009)
 [![Star](https://img.shields.io/github/stars/ngruver/NOS.svg?style=social&label=Star)](https://github.com/ngruver/NOS)
 
-[22 May 2023] [Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation](https://arxiv.org/abs/2305.15025) (EMNLP 2023)<br>
+[24 May 2023] [Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation](https://arxiv.org/abs/2305.15025) (EMNLP 2023)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15025)
 [![Star](https://img.shields.io/github/stars/UKPLab/dior-cvae.svg?style=social&label=Star)](https://github.com/UKPLab/dior-cvae)
 
@@ -1860,8 +2214,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01735)
 [![Star](https://img.shields.io/github/stars/hpzhang94/DiffuSum.svg?style=social&label=Star)](https://github.com/hpzhang94/DiffuSum)
 
-[7 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
 [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm)
@@ -1906,5 +2258,3 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
-
