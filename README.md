@@ -1570,6 +1570,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [4 Feb 2026] [Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.04399)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.04399)
 
+[4 Feb 2026] [Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models](https://arxiv.org/abs/2604.02340)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.02340)
+
 [2 Feb 2026] [Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing](https://arxiv.org/abs/2602.02159)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02159)
 [![Star](https://img.shields.io/github/stars/Longxmas/Focus-dLLM.svg?style=social&label=Star)](https://github.com/Longxmas/Focus-dLLM)
