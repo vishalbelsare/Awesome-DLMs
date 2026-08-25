@@ -5,6 +5,10 @@
 
 One of the most starred, comprehensive and up-to-date collections of Diffusion Language Model papers, code and resources! If you find this repository helpful, please consider giving it a ⭐ to support.
 
+## News
+
+- **[2026.08]** 🔥 **[DARTree](https://arxiv.org/abs/2608.13524) is released!** DARTree combines autoregressive correction with tree-based verification for diffusion-based speculative decoding, extending causal correction from a single draft chain to multiple branches of a speculative tree. It achieves **SOTA** acceptance length and speedup—up to **12 tokens** and **9×**, respectively. Check out our [paper](https://arxiv.org/abs/2608.13524) and [code](https://github.com/VILA-Lab/DARTree)!
+
 ## Timeline of Diffusion Language Models
 
 This figure highlights key milestones in the development of DLMs, categorized into three groups: continuous DLMs, discrete DLMs, and recent multimodal DLMs.  We observe that while early research predominantly focused on continuous DLMs, discrete DLMs have gained increasing popularity in more recent years. 
@@ -1294,6 +1298,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Inference Optimization
+
+[13 Aug 2026] [DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees](https://arxiv.org/abs/2608.13524)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13524)
+[![Star](https://img.shields.io/github/stars/VILA-Lab/DARTree.svg?style=social&label=Star)](https://github.com/VILA-Lab/DARTree)
 
 [12 Aug 2026] [Ripple-Pivot Search: Active Parallel Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2608.11742)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11742)
