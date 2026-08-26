@@ -13,7 +13,7 @@ One of the most starred, comprehensive and up-to-date collections of Diffusion L
 
 This figure highlights key milestones in the development of DLMs, categorized into three groups: continuous DLMs, discrete DLMs, and recent multimodal DLMs.  We observe that while early research predominantly focused on continuous DLMs, discrete DLMs have gained increasing popularity in more recent years. 
 
-![Timeline of Diffusion Language Models](timeline3.png)
+![Timeline of Diffusion Language Models](timeline4.png)
 
 ## Table of Contents
 - [🎮 Playground](#playground)
